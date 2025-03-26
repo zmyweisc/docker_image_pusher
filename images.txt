@@ -1,2 +1,2 @@
-jupyter/datascience-notebook
+jupyter/base-notebook
 
